@@ -1,6 +1,9 @@
+.container {
+  margin-left: 20px;
+}
+
 img {
   border: 2px solid;
-
      width: 300px;
      border-radius: 25px;
 }
@@ -14,4 +17,8 @@ img {
   top: -350px;
   font-size: 20px;
   color: red;
+}
+
+p {
+  margin-left: 20px;
 }
